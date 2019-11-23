@@ -1,0 +1,12 @@
+@tailwind base;
+
+@tailwind components;
+.scale {
+  transition: all 1s;
+}
+.scale:hover {
+  transform: scale(1.6);
+  cursor: pointer;
+}
+
+@tailwind utilities;
