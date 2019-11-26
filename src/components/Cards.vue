@@ -21,7 +21,7 @@
                 <span
                   class="ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
                   href="#"
-                >5.třída</span>
+                >{{ card.category }}. třída</span>
               </div>
               <p class="text-gray-600 text-sm">{{ card.desc }}</p>
             </div>
@@ -72,7 +72,8 @@ export default {
             "https://images.unsplash.com/photo-1553570739-330b8db8a925?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
           title: "Světadíly a oceány",
           desc: "Doplň správně názvy světadílů a oceánů, pak stiskni kontrola.",
-          link: "http://rysava.websnadno.cz/vlastiveda_5.roc/svetadily.htm"
+          link: "http://rysava.websnadno.cz/vlastiveda_5.roc/svetadily.htm",
+          category: "5"
         },
         {
           id: 2,
@@ -82,7 +83,8 @@ export default {
           desc:
             "Doplň správně polohu a popiš, kudy vede hranice Evropy, pak stiskni kontrola.",
           link:
-            "http://rysava.websnadno.cz/vlastiveda_5.roc/evropa_poloha_na_zemi.htm"
+            "http://rysava.websnadno.cz/vlastiveda_5.roc/evropa_poloha_na_zemi.htm",
+          category: "5"
         },
         {
           id: 3,
@@ -92,7 +94,8 @@ export default {
           desc:
             "Doplň tabulku, v prvním sloupci jméno obecné a ve druhém jméno vlastní.",
           link:
-            "http://rysava.websnadno.cz/vlastiveda_5.roc/evropa_ostrovy_poloostrovy.htm"
+            "http://rysava.websnadno.cz/vlastiveda_5.roc/evropa_ostrovy_poloostrovy.htm",
+          category: "5"
         },
         {
           id: 4,
@@ -101,7 +104,9 @@ export default {
           title: "Evropa - nížiny",
           desc:
             "Nížiny jsou krajiny, které mají nadmořskou výšku od 0 do 200 m n.m.",
-          link: "http://rysava.websnadno.cz/vlastiveda_5.roc/evropa_povrch1.htm"
+          link:
+            "http://rysava.websnadno.cz/vlastiveda_5.roc/evropa_povrch1.htm",
+          category: "5"
         },
         {
           id: 5,
@@ -110,7 +115,8 @@ export default {
           title: "Evropa - státy",
           desc:
             "Doplň k číslu nejprve stát, potom jeho hlavní město. Pak stiskni kontrola.",
-          link: "http://rysava.websnadno.cz/vlastiveda_5.roc/evropa_staty.htm"
+          link: "http://rysava.websnadno.cz/vlastiveda_5.roc/evropa_staty.htm",
+          category: "5"
         },
         {
           id: 6,
@@ -119,7 +125,8 @@ export default {
           title: "Evropská unie",
           desc:
             "Přiřaď odpovědi. Klikni na modrou šipku v okýnku a vyber správné slovo. ",
-          link: "http://rysava.websnadno.cz/vlastiveda_5.roc/evropska_unie.htm"
+          link: "http://rysava.websnadno.cz/vlastiveda_5.roc/evropska_unie.htm",
+          category: "5"
         },
         {
           id: 7,
@@ -128,7 +135,8 @@ export default {
           title: "Slepá mapa světa",
           desc:
             "Klikni na číslo v křížovce, objeví se ti otázka. Doplň názvy světadílů.",
-          link: "http://www.brumlik.estranky.cz/file/497/slepamapaevropy.htm"
+          link: "http://www.brumlik.estranky.cz/file/497/slepamapaevropy.htm",
+          category: "5"
         },
         {
           id: 8,
@@ -136,7 +144,8 @@ export default {
             "https://images.unsplash.com/photo-1526667383715-3c42cbae3d60?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
           title: "Slepá mapa Evropy",
           desc: "Podle čísel ve slepé mapě doplň do tabulky názvy států.",
-          link: "http://www.brumlik.estranky.cz/file/913/slepamapaevropyy.htm"
+          link: "http://www.brumlik.estranky.cz/file/913/slepamapaevropyy.htm",
+          category: "5"
         }
       ]
     };
