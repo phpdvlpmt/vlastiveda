@@ -9,7 +9,7 @@
         <div class="rounded overflow-hidden shadow-lg flex-grow flex-col">
           <div class="overflow-hidden">
             <img
-              class="w-full h-40 object-cover object-center scale"
+              class="w-full h-40 object-cover object-center scale hover:cursor-zoom-in"
               :src="card.image"
               alt="Sunset in the mountains"
             />

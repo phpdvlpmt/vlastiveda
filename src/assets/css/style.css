@@ -6,7 +6,6 @@
 }
 .scale:hover {
   transform: scale(1.6);
-  cursor: pointer;
 }
 
 @tailwind utilities;

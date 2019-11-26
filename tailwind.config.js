@@ -13,8 +13,20 @@ module.exports = {
       "5xl": "3rem",
       "6xl": "4rem"
     },
+    cursor: {
+      auto: "auto",
+      default: "default",
+      pointer: "pointer",
+      wait: "wait",
+      text: "text",
+      move: "move",
+      "not-allowed": "not-allowed",
+      "zoom-in": "zoom-in"
+    },
     extend: {}
   },
-  variants: {},
+  variants: {
+    cursor: ["responsive", "hover"]
+  },
   plugins: []
 };
