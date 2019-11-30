@@ -6,7 +6,7 @@
         :key="card.id"
         class="w-full sm:w-1/2 lg:w-1/4 px-2 mb-4 flex flex-col"
       >
-        <div class="rounded overflow-hidden shadow-lg flex-grow flex-col">
+        <div class="rounded overflow-hidden shadow-lg flex-grow">
           <div class="overflow-hidden">
             <img
               class="w-full h-40 object-cover object-center scale hover:cursor-zoom-in"
