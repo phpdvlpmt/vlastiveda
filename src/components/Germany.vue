@@ -57,7 +57,7 @@
       <p>
         Vysoká životní úroveň obyvatel Německa láká do země mnoho cizinců, takže dnes žije ve Spolkové republice Německo více než devět milionů obyvatel pocházejících z jiných zemí.
       </p>
-      <p class="py-4">Více informací můžete nají třeba na <a class="text-blue-600 underline" href="https://cs.wikipedia.org/wiki/N%C4%9Bmecko" target="_blank">Wikipedii</a></p>
+      <p class="py-4">Více informací můžete nají třeba na <a class="text-blue-600 underline" href="https://cs.wikipedia.org/wiki/N%C4%9Bmecko" target="_blank">Wikipedii</a>.</p>
       <h2 class="text-gray-700 text-xl">Shrnutí</h2>
       <p class="pb-8">
         <strong>Německo je hospodářsky nejsilnějším státem. Žije zde přes 80 milionů obyvatel. Povrch Německa tvoří na severu nížiny, jih je hornatý. Hlavním městem je Berlín </strong>
