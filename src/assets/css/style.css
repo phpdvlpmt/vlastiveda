@@ -7,5 +7,21 @@
 .scale:hover {
   transform: scale(1.6);
 }
+.router-link-active {
+  @apply text-white;
+}
+.router-link-active:hover {
+  @apply text-white border-b border-white;
+}
+
+.router-link-exact-active {
+  @apply text-orange-400 font-bold border-b border-orange-400;
+}
+.router-link-exact-active:hover {
+  @apply text-orange-400 font-bold border-b border-orange-400;
+}
+nav a:hover {
+  @apply text-white border-b border-white;
+}
 
 @tailwind utilities;
