@@ -8,12 +8,11 @@
       <router-link to="/sousedni-staty" class="text-center text-xs tracking-wider ml-3">Sousední státy</router-link>
       <!-- <router-link to="/staty" class="text-center text-xs tracking-wider ml-3">Státy</router-link>-->
     </nav>
-    <div class="flex items-center">
+    <div class="md:flex items-center">
       <h2 class="text-center text-xs text-white tracking-wider">Základní škola a mateřská škola Mnetěš</h2>
-      <a class="text-center text-xs tracking-wider ml-3" href="http://mail.zsmsmnetes.cz" target="_blank">
-        <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20">
+      <a class="text-center text-xs tracking-wider ml-3 hover:text-gray-100" href="http://mail.zsmsmnetes.cz" target="_blank">
+        <svg class="hidden md:block w-4 h-4 fill-current" viewBox="0 0 20 20">
           <path
-            fill="#FFF"
             d="M1.574 5.286l7.5 4.029c.252.135.578.199.906.199.328 0 .654-.064.906-.199l7.5-4.029c.489-.263.951-1.286.054-1.286H1.521c-.897 0-.435 1.023.053 1.286zm17.039 2.203l-7.727 4.027c-.34.178-.578.199-.906.199s-.566-.021-.906-.199-7.133-3.739-7.688-4.028C.996 7.284 1 7.523 1 7.707V15c0 .42.566 1 1 1h16c.434 0 1-.58 1-1V7.708c0-.184.004-.423-.387-.219z"
           />
         </svg>
