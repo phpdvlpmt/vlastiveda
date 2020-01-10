@@ -10,7 +10,7 @@
               <div class="flex justify-between items-center mb-2">
                 <h3 class="font-bold text-lg uppercase">Povrch</h3>
                 <span
-                  class="ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
+                  class="flex-shrink-0 ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
                   href="#"
                 >5. třída</span>
               </div>
@@ -53,7 +53,7 @@
               <div class="flex justify-between items-center mb-2">
                 <h3 class="font-bold text-lg uppercase">Vodstvo</h3>
                 <span
-                  class="ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
+                  class="flex-shrink-0 ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
                   href="#"
                 >5. třída</span>
               </div>
@@ -95,7 +95,7 @@
               <div class="flex justify-between items-center mb-2">
                 <h3 class="font-bold text-lg uppercase">Poloostrovy</h3>
                 <span
-                  class="ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
+                  class="flex-shrink-0 ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
                   href="#"
                 >5. třída</span>
               </div>
@@ -137,7 +137,7 @@
               <div class="flex justify-between items-center mb-2">
                 <h3 class="font-bold text-lg uppercase">Nerosty</h3>
                 <span
-                  class="ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
+                  class="flex-shrink-0 ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
                   href="#"
                 >5. třída</span>
               </div>
@@ -183,7 +183,7 @@
               <div class="flex justify-between items-center mb-2">
                 <h3 class="font-bold text-lg uppercase">Poloha ČR v Evropě</h3>
                 <span
-                  class="ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
+                  class="flex-shrink-0 ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
                   href="#"
                 >5. třída</span>
               </div>
@@ -214,7 +214,7 @@
               <div class="flex justify-between items-center mb-2">
                 <h3 class="font-bold text-lg uppercase">Vegetace Evropy</h3>
                 <span
-                  class="ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
+                  class="flex-shrink-0 ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
                   href="#"
                 >5. třída</span>
               </div>
@@ -243,7 +243,7 @@
               <div class="flex justify-between items-center mb-2">
                 <h3 class="font-bold text-lg uppercase">Obyvatelstvo Evropy</h3>
                 <span
-                  class="ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
+                  class="flex-shrink-0 ml-2 inline-block bg-blue-500 px-2 py-1 rounded-full text-gray-100 shadow-md text-xxs"
                   href="#"
                 >5. třída</span>
               </div>
