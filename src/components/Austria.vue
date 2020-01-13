@@ -92,7 +92,7 @@
                 Téměř polovinu území pokrývají <strong>lesy</strong>, které využívá <strong>dřevozpracující průmysl</strong>. S výjimkou <strong>soli</strong>, která se těží v
                 <strong>Solné komoře</strong> u Slacburku, musí tento hospodářsky významný stát <strong>většinu surovin dovážet</strong>. Horské toky s <strong>prudce tekoucí vodou</strong> jsou
                 vhodné pr výrobu elektrické energie ve <strong>vodních elektrárnách</strong>. Rakousko je známé svými bezpečnými silnicemi a splehlivými železnicemi, které se většinou sbíhají ve
-                Vídni. Pro spojení severu a jihu země bylo vybudováné mnoho <strong>silničních</strong> a <strong>železničních tunelů</strong>.
+                Vídni. Pro spojení severu a jihu země bylo vybudováno mnoho <strong>silničních</strong> a <strong>železničních tunelů</strong>.
               </p>
             </div>
           </div>
@@ -117,7 +117,7 @@
               </p>
               <h2 class="font-bold text-lg">Zajímavost</h2>
               <p class="text-gray-600 text-sm">
-                Ve městě Salcburk se narodil velký hudební génius <strong>Wolfagang Amadeus Mozart</strong>. Svou první operu složil už v jedenácti letech. Navzdory svému talentu zemřel v bíd+ a
+                Ve městě Salcburk se narodil velký hudební génius <strong>Wolfagang Amadeus Mozart</strong>. Svou první operu složil už v jedenácti letech. Navzdory svému talentu zemřel v bídě a
                 pochován byl v hromadném hrobě ve Vídni.
               </p>
 
