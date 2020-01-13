@@ -11,7 +11,7 @@
             </strong>
           </p>
         </div>
-        <div>
+        <div class="flex-shrink-0">
           <img class="h-auto py-2 md:py-0 md:h-10 mx-auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/110px-Flag_of_Austria.svg.png" alt="" />
         </div>
       </div>
@@ -33,12 +33,12 @@
               </p>
               <h2 class="font-bold text-lg">Z historie</h2>
               <p class="text-gray-600 text-sm">
-                Rakousko bylo v minulosti spolu s Českem a dalšími zeměmi součástí velkého soustátí zvaného habsburská monarchie. (Ta zanikla v roce 1918) Rakouskoje <strong>neutrální zemí</strong>,
-                proto není členem NATO ani jiného vojenského spolku. Je členem <strong>EU</strong>.
+                Rakousko bylo v minulosti spolu s Českem a dalšími zeměmi součástí velkého soustátí zvaného habsburská monarchie. (Ta zanikla v roce 1918.) Rakousko je
+                <strong>neutrální zemí</strong>, proto není členem NATO ani jiného vojenského spolku. Je členem <strong>EU</strong>.
               </p>
               <h2 class="font-bold text-lg">Obyvatelstvo</h2>
               <p class="text-gray-600 text-sm">
-                V Rakousku žije asi <strong>8 milionů obyvatel</strong>. Úředním jazykem je <strong>němčina</strong>. Země je republikou, kterou tcoří <strong>9 spolkových zemí</strong>.
+                V Rakousku žije asi <strong>8 milionů obyvatel</strong>. Úředním jazykem je <strong>němčina</strong>. Země je republikou, kterou tvoří <strong>9 spolkových zemí</strong>.
               </p>
               <h2 class="font-bold text-lg">Další velká města</h2>
               <p class="text-gray-600 text-sm">
@@ -60,13 +60,14 @@
             <div class="px-6 pt-1 pb-4">
               <h2 class="font-bold text-lg">Povrch</h2>
               <p class="text-gray-600 text-sm">
-                Většina území Rakouska pokrývají velehory <strong>Alpy</strong>, na východě se rozprostírá nížina a na severu vrchoviny. Celá třetina povrchu země je porostlá lesy.
+                Většinu území Rakouska pokrývají velehory <strong>Alpy</strong>, na východě se rozprostírá nížina a na severu vrchoviny. Celá třetina povrchu země je porostlá lesy. Na obrázku vidíte
+                Großglockner (3798 m n. m.) z jihozápadu. Je nejvyšší horou Rakouska.
               </p>
 
               <h2 class="font-bold text-lg">Vodstvo</h2>
               <p class="text-gray-600 text-sm">
                 Od západu k východu protéká zemí řeka <strong>Dunaj</strong>, využívaná pro říční dopravu. Na Dunaji leží průmyslové centrum <strong>Linec</strong> a hlavní město
-                <strong>Vídeň</strong> a mnoha historickými památkami.
+                <strong>Vídeň</strong> s mnoha historickými památkami.
               </p>
               <h2 class="font-bold text-lg">Zemědělství</h2>
               <p class="text-gray-600 text-sm">
@@ -90,10 +91,11 @@
               <h2 class="font-bold text-lg">Průmysl</h2>
               <p class="text-gray-600 text-sm">
                 Téměř polovinu území pokrývají <strong>lesy</strong>, které využívá <strong>dřevozpracující průmysl</strong>. S výjimkou <strong>soli</strong>, která se těží v
-                <strong>Solné komoře</strong> u Slacburku, musí tento hospodářsky významný stát <strong>většinu surovin dovážet</strong>. Horské toky s <strong>prudce tekoucí vodou</strong> jsou
+                <strong>Solné komoře</strong> u Salcburku, musí tento hospodářsky významný stát <strong>většinu surovin dovážet</strong>. Horské toky s <strong>prudce tekoucí vodou</strong> jsou
                 vhodné pr výrobu elektrické energie ve <strong>vodních elektrárnách</strong>. Rakousko je známé svými bezpečnými silnicemi a splehlivými železnicemi, které se většinou sbíhají ve
                 Vídni. Pro spojení severu a jihu země bylo vybudováno mnoho <strong>silničních</strong> a <strong>železničních tunelů</strong>.
               </p>
+              <img class="mt-4 mx-auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Austria_Bundesadler.svg/90px-Austria_Bundesadler.svg.png" alt="" />
             </div>
           </div>
         </div>
@@ -117,11 +119,14 @@
               </p>
               <h2 class="font-bold text-lg">Zajímavost</h2>
               <p class="text-gray-600 text-sm">
-                Ve městě Salcburk se narodil velký hudební génius <strong>Wolfagang Amadeus Mozart</strong>. Svou první operu složil už v jedenácti letech. Navzdory svému talentu zemřel v bídě a
-                pochován byl v hromadném hrobě ve Vídni.
+                Ve městě Salcburk se narodil velký hudební génius
+                <a class="underline" href="https://cs.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart" target="_blank"> <strong>Wolfagang Amadeus Mozart</strong></a
+                >. Svou první operu složil už v jedenácti letech. Navzdory svému talentu zemřel v bídě a pochován byl v hromadném hrobě ve Vídni.
               </p>
 
-              <p class="text-gray-600 text-sm">Více informací můžete najít třeba na <a class="text-blue-600 underline" href="https://cs.wikipedia.org/wiki/Rakousko" target="_blank">Wikipedii</a>.</p>
+              <p class="text-gray-600 text-sm">
+                Více informací o Rakousku můžete najít třeba na <a class="text-blue-600 underline" href="https://cs.wikipedia.org/wiki/Rakousko" target="_blank">Wikipedii</a>.
+              </p>
             </div>
           </div>
         </div>

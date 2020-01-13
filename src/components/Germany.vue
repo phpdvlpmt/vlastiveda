@@ -27,7 +27,7 @@
               </p>
               <h2 class="font-bold text-lg">Z historie</h2>
               <p class="text-gray-600 text-sm">
-                Na konci druhé světové války (v roce 1945) bylo Německo rozděleno na dva státy: na takzvané "východní" a "západní" Německo. V roce 1990 se tyo dva státy spojily v jeden velký stát -
+                Na konci druhé světové války (v roce 1945) bylo Německo rozděleno na dva státy: na takzvané "východní" a "západní" Německo. V roce 1990 se tyto dva státy spojily v jeden velký stát -
                 Německo
               </p>
               <h2 class="font-bold text-lg">Obyvatelstvo</h2>
@@ -53,7 +53,7 @@
               <h2 class="font-bold text-lg">Povrch</h2>
               <p class="text-gray-600 text-sm">
                 Jižní část území je převážně hornatá (velehory <strong>Alpy</strong>). Nížinný povrch na severu umožnil budování <strong>říčních průplavů</strong>. (Průplavy propojující německé řeky
-                vytvářejí delší cestu pro říční dopravu.) Na obrázku je nejvyšší hora Německa Zugspitze v Alpách.
+                vytvářejí delší cestu pro říční dopravu.) Na obrázku je nejvyšší hora Německa Zugspitze (2962 m n. m.) v Alpách.
               </p>
 
               <h2 class="font-bold text-lg">Vodstvo</h2>
@@ -112,7 +112,7 @@
               </p>
 
               <p class="text-gray-600 text-sm">
-                Více informací můžete najít třeba na <a class="text-blue-600 underline" href="https://cs.wikipedia.org/wiki/N%C4%9Bmecko" target="_blank">Wikipedii</a>.
+                Více informací o Německu můžete najít třeba na <a class="text-blue-600 underline" href="https://cs.wikipedia.org/wiki/N%C4%9Bmecko" target="_blank">Wikipedii</a>.
               </p>
               <h2 class="font-bold text-lg">Shrnutí</h2>
               <p class="text-gray-600 text-sm">
