@@ -11,7 +11,7 @@
             </strong>
           </p>
         </div>
-        <div class="flex-shrink-0">
+        <div class="flex-shrink-0 pl-4">
           <img class="h-auto py-2 md:py-0 md:h-10 mx-auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/110px-Flag_of_Austria.svg.png" alt="" />
         </div>
       </div>
