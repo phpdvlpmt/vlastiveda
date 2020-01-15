@@ -92,7 +92,7 @@
               <p class="text-gray-600 text-sm">
                 Téměř polovinu území pokrývají <strong>lesy</strong>, které využívá <strong>dřevozpracující průmysl</strong>. S výjimkou <strong>soli</strong>, která se těží v
                 <strong>Solné komoře</strong> u Salcburku, musí tento hospodářsky významný stát <strong>většinu surovin dovážet</strong>. Horské toky s <strong>prudce tekoucí vodou</strong> jsou
-                vhodné pr výrobu elektrické energie ve <strong>vodních elektrárnách</strong>. Rakousko je známé svými bezpečnými silnicemi a splehlivými železnicemi, které se většinou sbíhají ve
+                vhodné pro výrobu elektrické energie ve <strong>vodních elektrárnách</strong>. Rakousko je známé svými bezpečnými silnicemi a splehlivými železnicemi, které se většinou sbíhají ve
                 Vídni. Pro spojení severu a jihu země bylo vybudováno mnoho <strong>silničních</strong> a <strong>železničních tunelů</strong>.
               </p>
               <img class="mt-4 mx-auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Austria_Bundesadler.svg/90px-Austria_Bundesadler.svg.png" alt="" />
