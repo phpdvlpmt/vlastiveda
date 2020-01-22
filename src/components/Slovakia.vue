@@ -28,6 +28,11 @@
                   Autor: Marc Ryckaert (MJJR) – Vlastní dílo, CC BY 3.0,
                 </a>
               </p>
+              <h2 class="font-bold text-lg">Hymna:</h2>
+              <p class="text-gray-600 text-sm">
+                <strong>Nad Tatrou sa blýska</strong> je slovenská státní hymna. Píseň <strong>Nad Tatrou sa blýska</strong> vznikla v roce 1844. Text napsal Janko Matúška. Další informace naleznete
+                <a class="underline text-blue-600 text-sm" target="_blank" href="https://cs.wikipedia.org/wiki/Slovensk%C3%A1_hymna">zde</a>.
+              </p>
               <h2 class="font-bold text-lg">Z historie</h2>
               <p class="text-gray-600 text-sm">
                 Slovenská republika, stejně jako Česká republika vznikla <strong>1. ledna 1993</strong> po rozdělení Československa. Se Slovenskem máme dlouholeté kulturní a hospodářské vazby, které
@@ -52,7 +57,7 @@
                 alt=""
               />
             </div>
-            <div class="px-6 pt-1 pb-2">
+            <div class="px-6 pt-1 pb-6">
               <h2 class="font-bold text-lg">Povrch</h2>
               <p class="text-gray-600 text-sm">
                 Území Slovenska je převážně hornaté. Většinu povrchu zaujímá pohoří <strong>Karpaty</strong>. V jeho části nazvané <strong>Vysoké Tatry</strong> leží nejvyšší horaSlovenska

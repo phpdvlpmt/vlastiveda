@@ -2,22 +2,26 @@
   <div>
     <div class="px-3 md:px-10">
       <Slovakia></Slovakia>
-      <Austria></Austria>
+      <Poland></Poland>
       <Germany></Germany>
+      <Austria></Austria>
     </div>
   </div>
 </template>
 
 <script>
+import Slovakia from "./Slovakia.vue";
+import Poland from "./Poland.vue";
 import Germany from "./Germany.vue";
 import Austria from "./Austria.vue";
-import Slovakia from "./Slovakia.vue";
+
 export default {
   name: "States",
   components: {
+    Slovakia,
+    Poland,
     Germany,
-    Austria,
-    Slovakia
+    Austria
   }
 };
 </script>
