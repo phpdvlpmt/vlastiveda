@@ -15,8 +15,8 @@
             </ul>
             <p class="text-gray-800 mt-2 font-semibold text-center md:text-left">Na základě těchto časových úseků byl sestaven <strong>kalendář</strong>.</p>
           </div>
-          <div class="sm:w-1/4 flex justify-center mt-2 md:mt-0">
-            <img class=" sm:w-full mx-auto" src="../assets/calendar.svg" alt="" />
+          <div class="sm:w-1/4">
+            <img class="w-2/3 sm:w-full mx-auto" src="../assets/calendar.svg" alt="" />
           </div>
         </div>
 
