@@ -6,6 +6,7 @@
       <router-link to="/ceska-republika" class="text-center text-xs tracking-wider ml-3">ČR</router-link>
       <router-link to="/evropa" class="text-center text-xs tracking-wider ml-3">Evropa</router-link>
       <router-link to="/sousedni-staty" class="text-center text-xs tracking-wider ml-3">Sousední státy</router-link>
+      <router-link to="/dejepis" class="text-center text-xs tracking-wider ml-3">Dějepis</router-link>
       <!-- <router-link to="/staty" class="text-center text-xs tracking-wider ml-3">Státy</router-link>-->
     </nav>
     <div class="md:flex items-center">
