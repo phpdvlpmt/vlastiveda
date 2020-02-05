@@ -8,7 +8,7 @@
             <p class="text-gray-800">I v dávné minulosti lidé potřebovali měřit čas. Měření vycházelo z pozorování přírody.</p>
             <p class="text-gray-800 mt-2 font-semibold text-center sm:text-left">Základem pro měření času je:</p>
 
-            <ul class=" leading-loose list-inside list-disc my-2 text-gray-800 text-sm md:text-base text-center sm:text-left">
+            <ul class="leading-loose list-inside list-disc my-2 text-gray-800 text-sm md:text-base text-center sm:text-left">
               <li><strong>doba oběhu Země kolem Slunce</strong>, to je <strong>1 rok</strong>.</li>
               <li><strong>doba oběhu Měsíce kolem Země</strong> - asi 30 dní - to je <strong>1 měsíc</strong>.</li>
               <li><strong>doba otočení Země kolem své osy</strong>, to je <strong>1 den</strong>.</li>
@@ -16,7 +16,7 @@
             <p class="text-gray-800 mt-2 font-semibold text-center md:text-left">Na základě těchto časových úseků byl sestaven <strong>kalendář</strong>.</p>
           </div>
           <div class="sm:w-1/4 flex justify-center mt-2 md:mt-0">
-            <img class="w-2/3 w-full sm:w-full mx-auto" src="../assets/calendar.svg" alt="" />
+            <img class=" object-cover w-2/3 sm:w-full mx-auto" src="../assets/calendar.svg" alt="" />
           </div>
         </div>
 
