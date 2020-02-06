@@ -1,9 +1,7 @@
 <template>
-  <div>
-    <div class="px-3 md:px-10">
-      <!--<Pravek></Pravek>-->
-      <Cas></Cas>
-    </div>
+  <div class="container mx-auto">
+    <!--<Pravek></Pravek>-->
+    <Cas></Cas>
   </div>
 </template>
 

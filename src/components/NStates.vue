@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="px-3 md:px-10">
+    <div class="container mx-auto">
       <Slovakia></Slovakia>
       <Poland></Poland>
       <Germany></Germany>
