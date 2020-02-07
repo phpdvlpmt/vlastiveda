@@ -60,7 +60,7 @@
             <div class="px-6 pt-1 pb-6">
               <h2 class="font-bold text-lg">Povrch</h2>
               <p class="text-gray-600 text-sm">
-                Území Slovenska je převážně hornaté. Většinu povrchu zaujímá pohoří <strong>Karpaty</strong>. V jeho části nazvané <strong>Vysoké Tatry</strong> leží nejvyšší horaSlovenska
+                Území Slovenska je převážně hornaté. Většinu povrchu zaujímá pohoří <strong>Karpaty</strong>. V jeho části nazvané <strong>Vysoké Tatry</strong> leží nejvyšší hora Slovenska
                 <strong>Gerlachovský štít</strong> (2655 m n.m.). Nejvíc lidí žije v kotlinách pod horami a v nížinách na jihu a východě země. Na obrázku vidíte Vysoké Tatry.
                 <a class="underline text-blue-600 text-xs" target="_blank" href="https://commons.wikimedia.org/w/index.php?curid=16952118">Autor: Michal Klajban – Vlastní dílo, CC BY-SA 3.0</a>
               </p>

@@ -1,8 +1,10 @@
 <template>
-  <div id="app" class="antialiased bg-gray-100 min-h-screen min-h-full flex flex-col">
-    <Header></Header>
-    <router-view class="flex-grow" />
-    <Footer></Footer>
+  <div id="app" class="antialiased flex flex-col">
+    <div class="min-h-screen bg-gray-100 flex flex-col">
+      <Header></Header>
+      <router-view class="flex-grow" />
+      <Footer></Footer>
+    </div>
   </div>
 </template>
 
