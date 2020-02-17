@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container mx-auto">
     <div class="bg-white rounded  my-4 shadow-md px-4 md:px-6 py-2 overflow-hidden">
       <h2 class="text-gray-800 text-lg font-bold text-center uppercase">Malá kapitola o čase</h2>
       <div>

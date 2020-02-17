@@ -5,6 +5,12 @@ import States from "./components/States.vue";
 import NStates from "./components/NStates.vue";
 import Resources from "./components/Resources.vue";
 import History from "./components/History.vue";
+import Cas from "./components/Cas.vue";
+import Pravek from "./components/Pravek.vue";
+import Rozcesti from "./components/Rozcesti.vue";
+import Slovane from "./components/Slovane.vue";
+import Samo from "./components/Samo.vue";
+import Habsburkove from "./components/Habsburkove.vue";
 
 const routes = [
   { path: "/", component: Home },
@@ -13,7 +19,38 @@ const routes = [
   { path: "/staty", component: States },
   { path: "/sousedni-staty", component: NStates },
   { path: "/zdroje", component: Resources },
-  { path: "/dejepis", component: History }
+  {
+    path: "/dejepis",
+    component: History,
+    children: [
+      {
+        path: "/",
+        component: Rozcesti
+      },
+      {
+        path: "cas",
+        component: Cas
+      },
+      {
+        path: "pravek",
+        component: Pravek
+      },
+      {
+        path: "slovane",
+        component: Slovane
+      },
+      {
+        path: "samo",
+        component: Samo
+      },
+      {
+        path: "habsburkove",
+        component: Habsburkove
+      }
+    ]
+  },
+  { path: "/cas", component: Cas },
+  { path: "/pravek", component: Pravek }
 ];
 
 export default routes;
