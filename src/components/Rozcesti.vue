@@ -12,7 +12,7 @@
               <li class="underline"><router-link to="/dejepis/pravek">České země v pravěku</router-link></li>
               <li class="underline"><router-link to="/dejepis/slovane">Příchod Slovanů</router-link></li>
               <li class="underline"><router-link to="/dejepis/samo">Sámův kmenový svaz</router-link></li>
-              <li>Naše nejstarší minulost v pověstech</li>
+              <li class="underline"><router-link to="/dejepis/povesti">Naše nejstarší minulost v pověstech</router-link></li>
               <li>Velkomoravská říše</li>
               <li>Vznik českého státu, vláda přemyslovských knížat</li>
               <li>Život za vlády prvních Přemyslovců</li>

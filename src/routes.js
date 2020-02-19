@@ -11,6 +11,7 @@ import Rozcesti from "./components/Rozcesti.vue";
 import Slovane from "./components/Slovane.vue";
 import Samo from "./components/Samo.vue";
 import Habsburkove from "./components/Habsburkove.vue";
+import Povesti from "./components/Povesti.vue";
 
 const routes = [
   { path: "/", component: Home },
@@ -46,6 +47,10 @@ const routes = [
       {
         path: "habsburkove",
         component: Habsburkove
+      },
+      {
+        path: "povesti",
+        component: Povesti
       }
     ]
   },
