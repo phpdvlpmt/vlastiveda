@@ -12,6 +12,8 @@ import Slovane from "./components/Slovane.vue";
 import Samo from "./components/Samo.vue";
 import Habsburkove from "./components/Habsburkove.vue";
 import Povesti from "./components/Povesti.vue";
+import Morava from "./components/Morava.vue";
+import Terezie from "./components/Terezie.vue";
 
 const routes = [
   { path: "/", component: Home },
@@ -51,6 +53,14 @@ const routes = [
       {
         path: "povesti",
         component: Povesti
+      },
+      {
+        path: "morava",
+        component: Morava
+      },
+      {
+        path: "terezie",
+        component: Terezie
       }
     ]
   },

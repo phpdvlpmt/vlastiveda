@@ -13,7 +13,7 @@
               <li class="underline"><router-link to="/dejepis/slovane">Příchod Slovanů</router-link></li>
               <li class="underline"><router-link to="/dejepis/samo">Sámův kmenový svaz</router-link></li>
               <li class="underline"><router-link to="/dejepis/povesti">Naše nejstarší minulost v pověstech</router-link></li>
-              <li>Velkomoravská říše</li>
+              <li class="underline"><router-link to="/dejepis/morava">Velkomoravská říše</router-link></li>
               <li>Vznik českého státu, vláda přemyslovských knížat</li>
               <li>Život za vlády prvních Přemyslovců</li>
               <li>Vznik Českého králosvství, vláda přemyslovských králů</li>
@@ -37,7 +37,7 @@
               <li class="underline"><router-link to="/dejepis/habsburkove">Habsburkové českými králi</router-link></li>
               <li>Jak se žilo na začátku novověku</li>
               <li>Baroko</li>
-              <li>Marie Terezie a Josef II. zlepšují život poddaných</li>
+              <li class="underline"><router-link to="/dejepis/terezie">Marie Terezie a Josef II. zlepšují život poddaných</router-link></li>
               <li>Vynálezy mění život lidí (18. a 19. století)</li>
               <li>Přichází 2. polovina 19. století</li>
               <li>První světová válka</li>
