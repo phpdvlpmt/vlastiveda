@@ -53,6 +53,11 @@
         </div>
       </div>
     </div>
+    <router-link to="/dejepis/testy">
+      <div class="bg-purple-300 border-2 border-purple-400 rounded  px-3 py-1 my-4  mx-auto w-32">
+        <h4 class="text-gray-800 font-bold text-xl text-center">Testy</h4>
+      </div>
+    </router-link>
   </div>
 </template>
 

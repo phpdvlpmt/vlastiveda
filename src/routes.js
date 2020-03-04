@@ -14,6 +14,7 @@ import Habsburkove from "./components/Habsburkove.vue";
 import Povesti from "./components/Povesti.vue";
 import Morava from "./components/Morava.vue";
 import Terezie from "./components/Terezie.vue";
+import Testy from "./components/Testy.vue";
 
 const routes = [
   { path: "/", component: Home },
@@ -61,6 +62,10 @@ const routes = [
       {
         path: "terezie",
         component: Terezie
+      },
+      {
+        path: "testy",
+        component: Testy
       }
     ]
   },
