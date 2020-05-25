@@ -5,6 +5,7 @@
         <div class="w-full bg-white shadow-lg rounded">
           <div class="bg-red-700 px-4 py-2 rounded">
             <h4 class="text-xl text-red-100  font-medium">4. třída</h4>
+            <div class="py-2"><a href="/casova_primka_1.jpg" class="text-white hover:underline" target="_blank">Časová přímka 4. třída</a></div>
           </div>
           <div class="px-4 py-4">
             <ul class="leading-relaxed text-gray-800">
@@ -30,9 +31,11 @@
         <div class="w-full bg-white shadow-lg rounded ">
           <div class="bg-green-700 px-4 py-2 rounded">
             <h4 class="text-xl text-green-100  font-medium">5. třída</h4>
+            <div class="py-2"><a href="/casova_primka_2.jpg" class="text-white hover:underline" target="_blank">Časová přímka 5. třída</a></div>
           </div>
           <div class="px-4 py-4">
             <ul class="leading-relaxed text-gray-800">
+              <li class="underline"><router-link to="/dejepis/opakovani">Opakování učiva 4. ročníku</router-link></li>
               <li class="font-bold">Novověk - naše země za vlády králů</li>
               <li class="underline"><router-link to="/dejepis/habsburkove">Habsburkové českými králi</router-link></li>
               <li>Jak se žilo na začátku novověku</li>
@@ -63,7 +66,7 @@
 
 <script>
 export default {
-  name: "Rozcestí"
+  name: "Rozcestí",
 };
 </script>
 

@@ -15,6 +15,7 @@ import Povesti from "./components/Povesti.vue";
 import Morava from "./components/Morava.vue";
 import Terezie from "./components/Terezie.vue";
 import Testy from "./components/Testy.vue";
+import Opakovani from "./components/OpakovaniHistorie.vue";
 
 const routes = [
   { path: "/", component: Home },
@@ -29,48 +30,52 @@ const routes = [
     children: [
       {
         path: "/",
-        component: Rozcesti
+        component: Rozcesti,
       },
       {
         path: "cas",
-        component: Cas
+        component: Cas,
       },
       {
         path: "pravek",
-        component: Pravek
+        component: Pravek,
       },
       {
         path: "slovane",
-        component: Slovane
+        component: Slovane,
       },
       {
         path: "samo",
-        component: Samo
+        component: Samo,
       },
       {
         path: "habsburkove",
-        component: Habsburkove
+        component: Habsburkove,
       },
       {
         path: "povesti",
-        component: Povesti
+        component: Povesti,
       },
       {
         path: "morava",
-        component: Morava
+        component: Morava,
       },
       {
         path: "terezie",
-        component: Terezie
+        component: Terezie,
       },
       {
         path: "testy",
-        component: Testy
-      }
-    ]
+        component: Testy,
+      },
+      {
+        path: "opakovani",
+        component: Opakovani,
+      },
+    ],
   },
   { path: "/cas", component: Cas },
-  { path: "/pravek", component: Pravek }
+  { path: "/pravek", component: Pravek },
 ];
 
 export default routes;
