@@ -79,6 +79,97 @@
           byl v Olomouci zavražděn. Byl posledním mužem rodu Přemyslovců s nárokem na královský titul. Proto se říká, že jím rod Přemyslovců vymřel "po meči"; meč totiž představoval symbol mužství.
         </p>
       </div>
+      <div class="py-3 text-gray-700">
+        <h3 class="text-xl font-medium text-blue-600">Vláda Lucemburků, Karel IV.</h3>
+        <p class="mt-3">
+          Po Přemyslovcích nastoupili na český královský trůn <strong>Lucemburkové</strong>. \nejznámějším
+          panovníkem tohoto rodu se stal velmi vzdělaný císař <strong>Karel IV.</strong>, který bývá označován
+          za nejvýznamnějšího panovníka v celé tisícileté historii českého státu. To dokládá označení, jehož
+          se mu dostalo hned p smrti; byl označen za "Otce vlasti". Za jeho vlády se mnoho stavělo (Karlův most, 
+          Karlštejn, Nové Město pražské) a v Praze byla založena první univerzita ve střední Evropě. Praha se stala 
+          po dobu Karlovy vlády jedním z nejvýznamnějších evropských měst.
+        </p>
+      </div>
+      <div class="py-3 text-gray-700">
+        <h3 class="text-xl font-medium text-blue-600">Husitské války</h3>
+        <p class="mt-3">
+         Po smrti Karla IV. propukly vážné <strong>rozpory v katolické církvi</strong>. Kněží, mniši i papežové
+         místo toho, aby oddaně sloužili Bohu, shromažďovali do svých rukou majetek a mc ve státě. Bohatli zejména 
+         prodejem odpustků. Mnozí kněží však tyto zlořády kritizovali. Mezi nimi vynikal svými kázáními <strong>Jan Hus</strong>. 
+         Církevní hodnostáři ho chtěli umlčet. Protože své myšlenky odmítl odvolat, byl 6. červemce 1415 upálen. Tento 
+         den si každoročně připomínáme jako státní svátek.
+        </p>
+        <p>
+          Upálení Jana Husa vyvolal v Čechách bouři odporu a přerostl v <strong>husitské války</strong>. Papež 
+          organizoval proti husitům <strong>křížové výpravy</strong>. Ty však byly husitským vojskem poraženy.
+          Husitům velel <strong>Jan Žižka z Trocnova</strong>.
+        </p>
+        <p>
+          Nakonec propukly uvnitř husitského hnutí rozpory, které vyvrholily vzájemnou bitvou. Stoupenci radikálního
+          husitského směru byli poraženi.Moc církve se znovu začala upevňovat.
+        </p>
+      </div>
+       <div class="py-3 text-gray-700">
+        <h3 class="text-xl font-medium text-blue-600">Život v středověku</h3>
+        <p class="mt-3">
+         Nejvyšší postavení ve státě měla hned po panovníkovi <strong>šlechta</strong>, které patřily pole, lesy, louky, rybníky
+         i celé vesnice s poddanými. Šlechta se dělila na <strong>pány</strong> (bohatší část) a na <strong>rytíře</strong>
+         (nebo též na <strong>zemany</strong>, chudší část). Páni sídlili na hradech, zemané žili v tvrzích.
+        </p>
+        <p>
+          <strong>Církev</strong> vlastnila kláštery, kostely a také vesnice s poddanými.
+        </p>
+        <p>
+          Většina lidí žila na vesnicích. Nejpočetnější skupinou venkovského obyvatelstva byli <strong>poddaní</strong>, kteří museli 
+          odvádět králi, šlechtě i církvi jak peníze, tak i část své úrody z polí.
+        </p>
+        <p>
+          Ve městech žili převážně <strong>obchodníci </strong> a <strong>řemeslníci</strong>. Nejhůř se žilo 
+          <strong>venkovské i městské chudině</strong>.
+        </p>
+        <p>
+          Od poloviny 14. století vystřídaly románský sloh stavby <strong>gotického slohu</strong>. Na těžko přístupných místech se budovaly
+          mohutné hrady, ve městech nádherné kláštery a chrámy. Nejznámějším z nich se stal
+          <strong>Chrám sv. Víta v Praze</strong>.
+        </p>
+      </div>
+      <div class="py-3 text-gray-700">
+        <h3 class="text-xl font-medium text-blue-600">Husitský král Jiří z Poděbrad, vláda Jagellonců</h3>
+        <p class="mt-3">
+          Po husitských válkách českým zemím krátce vládl český šlechtic <strong>Jiří z Poděbrad</strong> ("husitský král"), který 
+          jako jediný z českých panovníků něměl královský původ.
+        </p>
+        <p>
+          Po Jiřím z Poděbrad nastoupil na český trůn nový panovnický rod, tentokráte z Polska - rod <strong>Jagellonců</strong>
+          Vládl u nás zhruba půl století.
+        </p>
+      </div>
+      <div class="py-3 text-gray-700">
+        <h3 class="text-xl font-medium text-blue-600">Nástup Habsburků na český trůn</h3>
+        <p class="mt-3">
+         Po Jagelloncích přišli v roce 1526 na český trůn rakouští <strong>Habsburkové</strong>. České země se staly součástí velké 
+         středoevropské habsburské monarchie, kterou vedle nich tvořily rakousk= země a Uherské království.
+        </p>
+        <p>
+          Až na císaře <strong>Rudolfa II,</strong>, který si zvolil za sídelní město Prahu, dávali Habsburkové přednost Vídni.
+          Přesto zůstávaly české země kulturně a hospodářsky nejvyspělejší částí monarchie. Rudolf II. podporoval rozvoj věd a umění. 
+          Do Prahy pozval řadu významných učenců a malířů z celé Evropy.
+        </p>
+        <p>
+          S nástupem Habsburků na český trůn <strong>končilo období středověku</strong> a začínal nový dějinný úsek, který nazýváme 
+          <strong>novověk</strong>.
+        </p>
+        <p>
+          Do českých zemí začal pronikat nový umělecký směr zvaný <strong>renesance</strong>. Panstvo si přestavovalo své hrady 
+          na pohodlné zámky obklopené zahradami a oborami se zvěří.
+        </p>
+        <p>
+          Bohatí měšťané si stavěli ve městech ozdobné domy. Rostl význam vzdělání. Zakládaly se městské školy.
+        </p>
+        <p>
+          Stále více lidí toužilo naučit se číst, psát a počítat. <strong>Vynález knihtisku</strong> umožnil vydávat větší množství knih.
+        </p>
+      </div>
     </div>
   </div>
 </template>
