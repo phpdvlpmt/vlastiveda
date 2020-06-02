@@ -148,7 +148,7 @@
         <h3 class="text-xl font-medium text-blue-600">Nástup Habsburků na český trůn</h3>
         <p class="mt-3">
          Po Jagelloncích přišli v roce 1526 na český trůn rakouští <strong>Habsburkové</strong>. České země se staly součástí velké 
-         středoevropské habsburské monarchie, kterou vedle nich tvořily rakousk= země a Uherské království.
+         středoevropské habsburské monarchie, kterou vedle nich tvořily rakouské země a Uherské království.
         </p>
         <p>
           Až na císaře <strong>Rudolfa II,</strong>, který si zvolil za sídelní město Prahu, dávali Habsburkové přednost Vídni.
