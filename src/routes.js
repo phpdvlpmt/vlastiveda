@@ -16,6 +16,7 @@ import Morava from "./components/Morava.vue";
 import Terezie from "./components/Terezie.vue";
 import Testy from "./components/Testy.vue";
 import Opakovani from "./components/OpakovaniHistorie.vue";
+import Povstani1848 from "./components/Povstani1848.vue";
 
 const routes = [
   { path: "/", component: Home },
@@ -71,6 +72,10 @@ const routes = [
       {
         path: "opakovani",
         component: Opakovani,
+      },
+      {
+        path: "povstani-1848",
+        component: Povstani1848,
       },
     ],
   },

@@ -42,7 +42,7 @@
               <li>Baroko</li>
               <li class="underline"><router-link to="/dejepis/terezie">Marie Terezie a Josef II. zlepšují život poddaných</router-link></li>
               <li>Vynálezy mění život lidí (18. a 19. století)</li>
-              <li>Přichází 2. polovina 19. století</li>
+              <li class="underline"><router-link to="/dejepis/povstani-1848">Přichází 2. polovina 19. století</router-link></li>
               <li>První světová válka</li>
               <li>Přehled událostí v našich zemích v letech 1618 - 1918</li>
               <li class="font-bold">Novověk - naše země po vzniku republiky</li>
