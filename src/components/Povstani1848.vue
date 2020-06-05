@@ -79,7 +79,7 @@
     <p class="text-gray-800">
      Po revoluci v roce 1848 se stal <strong>rakouským císařem</strong> a <strong>českým králem František Josef I.</strong>. Omezil
      svobodu lidí a nařídil policejní sledování těch, kdo kritizovali jeho vládu. <strong>Ve školách</strong> i <strong>na úřadech</strong> se 
-     muselo pvinně mluvit <strong>německy</strong>. Nespokojenost lidí donutila Františka Josefa k tomu, že časem změnil způsob vlády. 
+     muselo povinně mluvit <strong>německy</strong>. Nespokojenost lidí donutila Františka Josefa k tomu, že časem změnil způsob vlády. 
      <strong>Vydal ústavu</strong>, která zaručovala základní práva občanů. Tím skončila jeho neomezená vláda.
     </p>
     <div class="bg-yellow-400 p-4 rounded shadow-lg my-2">
@@ -90,7 +90,7 @@
     </div>
     <h3 class="text-xl  font-medium text-blue-600">Změna názvu říše</h3>
     <p class="text-gray-800">
-      Jak víte, habsburská říše se skládala <strong>z více zemí</strong>. Jedna z nich si vymohla ve 2. plovině 19. století
+      Jak víte, habsburská říše se skládala <strong>z více zemí</strong>. Jedna z nich si vymohla ve 2. polovině 19. století
       na panovníkovi <strong>částečnou samostatnost</strong>. Bylo to <strong>Uhersko</strong> (dnešní Maďarsko).
     </p>
     <p class="text-gray-800">
