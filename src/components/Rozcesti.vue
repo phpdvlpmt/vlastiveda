@@ -33,7 +33,7 @@
             <h4 class="text-xl text-green-100  font-medium">5. třída</h4>
             <div class="py-2"><a href="/casova_primka_2.jpg" class="text-white hover:underline" target="_blank">Časová přímka 5. třída</a></div>
           </div>
-          <div class="px-4 py-4">
+          <div class="px-4 pt-4">
             <ul class="leading-relaxed text-gray-800">
               <li class="underline"><router-link to="/dejepis/opakovani">Opakování učiva 4. ročníku</router-link></li>
               <li class="font-bold">Novověk - naše země za vlády králů</li>
@@ -52,6 +52,9 @@
               <li>Přišla sametová revoluce</li>
               <li>Události posledních let</li>
             </ul>
+          </div>
+          <div class="px-4 pt-2 pb-4">
+            <a class="underline text-orange-700 font-bold" href="/prehled_dejin_2.pdf" target="_blank">Zjednodušený přehled dějin</a>
           </div>
         </div>
       </div>
