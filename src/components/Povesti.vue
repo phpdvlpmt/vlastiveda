@@ -13,13 +13,13 @@
           <div class="px-6  w-full lg:w-3/5 bg-yellow-100">
             <p>
               <strong>Podle</strong> dochovaných <strong>pověstí</strong> přivedl <strong>praotec Čech</strong> svůj kmen pod <strong>horu Říp</strong>. Po obhlédnutí krajiny rozhodl, že se zde
-              všichni usadí. Zemi pojmenovali na jeho počest <strong>Čechy</strong>. Chceš si přečíst pověst o praotci Čechovi? Klikni
+              všichni usadí. Zemi pojmenovali na jeho počest <strong>Čechy</strong>. 
              
             </p>
             <p>
               Stařešina <strong>Krok</strong> měl tři dcery - Kazi, Tetu, Libuši (zapiš si to za uši). Kněžnou se stala <strong>Libuše</strong>. Ta měla nadání předpovídat (věštit) budoucnost a
               předpověděla slávu <strong>Prahy</strong>. Některým mužům však vláda ženy nevyhovovala. Libuše si tedy zvolila za manžela <strong>Přemysla Oráče ze Stadic</strong>, který se tak stal
-              podle pověsti zakladatelem <strong>rodu Přemyslovců</strong>. Pověst o kněžně Libuši najdeš
+              podle pověsti zakladatelem <strong>rodu Přemyslovců</strong>. 
               
             </p>
           </div>
@@ -34,7 +34,7 @@
             <p class="pb-2">
               Podle pověsti naše země v dalších letech vzkvétala a za knížete Křesomysla začalo mohutné dobývání zlata a stříbra. Z rolníků se stali horníci a pole neměl kdo obdělávat. To se nelíbilo
               <strong>Horymírovi</strong>. Dostal se do sporů a pak i do boje s havíři. Kníže Křesomysl proto odsoudil Horymíra k smrti. Věrný <strong>kůň Šemík</strong> přeskočil s Horymírem hradby
-              tehdejšího knížecího hradu Vyšehrad a přeplaval Vltavu, takže Horymír trestu smrti unikl. Pověst o Horymírovi najdeš
+              tehdejšího knížecího hradu Vyšehrad a přeplaval Vltavu, takže Horymír trestu smrti unikl. 
               
             </p>
             <p class="text-sm text-gray-800 italic pb-2">
