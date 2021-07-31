@@ -14,13 +14,13 @@
             <p>
               <strong>Podle</strong> dochovaných <strong>pověstí</strong> přivedl <strong>praotec Čech</strong> svůj kmen pod <strong>horu Říp</strong>. Po obhlédnutí krajiny rozhodl, že se zde
               všichni usadí. Zemi pojmenovali na jeho počest <strong>Čechy</strong>. Chceš si přečíst pověst o praotci Čechovi? Klikni
-              <a class="underline font-bold" target="_blank" href="http://pohadky-online.eu/ceske-povesti-pro-male-deti/praotec-cech/">zde</a>.
+             
             </p>
             <p>
               Stařešina <strong>Krok</strong> měl tři dcery - Kazi, Tetu, Libuši (zapiš si to za uši). Kněžnou se stala <strong>Libuše</strong>. Ta měla nadání předpovídat (věštit) budoucnost a
               předpověděla slávu <strong>Prahy</strong>. Některým mužům však vláda ženy nevyhovovala. Libuše si tedy zvolila za manžela <strong>Přemysla Oráče ze Stadic</strong>, který se tak stal
               podle pověsti zakladatelem <strong>rodu Přemyslovců</strong>. Pověst o kněžně Libuši najdeš
-              <a class="underline font-bold" target="_blank" href="http://pohadky-online.eu/ceske-povesti-pro-male-deti/libuse-premysl/">zde</a>.
+              
             </p>
           </div>
           <img
@@ -35,12 +35,12 @@
               Podle pověsti naše země v dalších letech vzkvétala a za knížete Křesomysla začalo mohutné dobývání zlata a stříbra. Z rolníků se stali horníci a pole neměl kdo obdělávat. To se nelíbilo
               <strong>Horymírovi</strong>. Dostal se do sporů a pak i do boje s havíři. Kníže Křesomysl proto odsoudil Horymíra k smrti. Věrný <strong>kůň Šemík</strong> přeskočil s Horymírem hradby
               tehdejšího knížecího hradu Vyšehrad a přeplaval Vltavu, takže Horymír trestu smrti unikl. Pověst o Horymírovi najdeš
-              <a class="underline font-bold" target="_blank" href="http://pohadky-online.eu/ceske-povesti-pro-male-deti/horymir/">zde</a>.
+              
             </p>
             <p class="text-sm text-gray-800 italic pb-2">
               Tyto a jiné pověsti se nám dochovaly zásluhou kněze jménem <strong>Kosmas</strong>, který je jako první zapsal před 900 lety ve své kronice.
             </p>
-            <p>Chceš se dozvědět více? Čti <a class="underline font-bold" target="_blank" href="http://pohadky-online.eu/ceske-povesti-pro-male-deti">tady</a></p>
+           
           </div>
           <div class="w-full lg:w-1/4">
             <iframe
